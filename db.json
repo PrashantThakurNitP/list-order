@@ -3,55 +3,147 @@
                 {
                   "id": "123",
                   "stock": "Tata",
+                  "side":"Sell",
                   "count": "23",
                   "type": "Limit",
                   "clientName": "Clark Kent",
                   "orderDate":"11-12-2021",
-                  "details": "View Details"
+                  "details": "View Details",
+                  "status": "CREATED"
                 },
                 {
                   "id": "125",
                   "stock": "Jio",
+                  "side":"Sell",
                   "count": "45",
                   "type": "Current",
                   "clientName": "Bruce Wayne",
                   "orderDate":"11-11-2021",
-                  "details": "View Details"
+                  "details": "View Details",
+                  "status": "COMPLETED"
                 },
                 {
-                  "id": "125",
-                  "stock": "Jio",
+                  "id": "126",
+                  "stock": "Birla",
+                  "side":"Sell",
                   "count": "45",
                   "type": "Current",
                   "clientName": "Bruce Wayne",
                   "orderDate":"11-8-2021",
-                  "details": "View Details"
+                  "details": "View Details",
+                  "status": "REJECTED"
+                  
                 },{
-                  "id": "125",
-                  "stock": "Jio",
+                  "id": "127",
+                  "stock": "Zomato",
                   "count": "45",
+                  "side":"Buy",
                   "type": "Current",
                   "clientName": "Bruce Wayne",
                   "orderDate":"11-5-2021",
-                  "details": "View Details"
+                  "details": "View Details",
+                  "status": "CREATED"
                 },
                 {
-                  "id": "125",
-                  "stock": "Jio",
+                  "id": "128",
+                  "stock": "Swiggy",
                   "count": "45",
+                  "side":"Buy",
                   "type": "Current",
                   "clientName": "Bruce Wayne",
                   "orderDate":"11-5-2021",
-                  "details": "View Details"
+                  "details": "View Details",
+                  "status": "REJECTED"
                 },
                 {
-                  "id": "125",
-                  "stock": "Jio",
+                  "id": "130",
+                  "stock": "Wallmart",
                   "count": "45",
+                  "side":"Sell",
                   "type": "Current",
                   "clientName": "Bruce Wayne",
                   "orderDate":"11-1-2021",
-                  "details": "View Details"
+                  "details": "View Details",
+                  "status": "CREATED"
+                },
+                {
+                  "id": "131",
+                  "stock": "Dellmart",
+                  "count": "45",
+                  "side":"Buy",
+                  "type": "Current",
+                  "clientName": "Bruce Wayne",
+                  "orderDate":"11-1-2021",
+                  "details": "View Details",
+                  "status": "CREATED"
+                },
+                {
+                  "id": "132",
+                  "stock": "Dell",
+                  "count": "45",
+                  "side":"Sell",
+                  "type": "Current",
+                  "clientName": "Bruce Wayne",
+                  "orderDate":"11-1-2021",
+                  "details": "View Details",
+                  "status": "COMPLETED"
+                },
+  
+                {
+                  "id": "133",
+                  "stock": "Lenovo",
+                  "count": "45",
+                  "side":"Buy",
+                  "type": "Current",
+                  "clientName": "Bruce Wayne",
+                  "orderDate":"11-1-2021",
+                  "details": "View Details",
+                  "status": "CREATED"
+                },
+  
+                {
+                  "id": "134",
+                  "stock": "Samsung",
+                  "count": "45",
+                  "side":"Sell",
+                  "type": "Current",
+                  "clientName": "Bruce Wayne",
+                  "orderDate":"11-1-2021",
+                  "details": "View Details",
+                  "status": "COMPLETED"
+                },
+                {
+                  "id": "135",
+                  "stock": "Helios",
+                  "count": "45",
+                  "side":"Sell",
+                  "type": "Current",
+                  "clientName": "Bruce Wayne",
+                  "orderDate":"11-1-2021",
+                  "details": "View Details",
+                  "status": "CREATED"
+                },
+                {
+                  "id": "136",
+                  "stock": "Gtx",
+                  "count": "45",
+                  "side":"Buy",
+                  "type": "Current",
+                  "clientName": "Bruce Wayne",
+                  "orderDate":"11-1-2021",
+                  "details": "View Details",
+                  "status": "CREATED"
+                },
+                {
+                  "id": "137",
+                  "stock": "Nvidia",
+                  "count": "45",
+                  "side":"Sell",
+                  "type": "Current",
+                  "clientName": "Bruce Wayne",
+                  "orderDate":"11-1-2021",
+                  "details": "View Details",
+                  "status": "CREATED"
                 }
   
                 
